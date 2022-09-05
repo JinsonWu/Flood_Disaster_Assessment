@@ -1,0 +1,9 @@
+[submodule "dataset/nnabla-examples"]
+	path = dataset/nnabla-examples
+	url = https://github.com/sony/nnabla-examples/
+[submodule "Mask R-CNN/detectron2"]
+	path = Mask R-CNN/detectron2
+	url = https://github.com/facebookresearch/detectron2
+[submodule "Mask R-CNN/e2cnn"]
+	path = Mask R-CNN/e2cnn
+	url = https://github.com/QUVA-Lab/e2cnn
