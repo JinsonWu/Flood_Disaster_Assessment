@@ -7,3 +7,9 @@
 [submodule "Mask R-CNN/e2cnn"]
 	path = Mask R-CNN/e2cnn
 	url = https://github.com/QUVA-Lab/e2cnn
+[submodule "1st_place_method/apex"]
+	path = 1st_place_method/apex
+	url = https://github.com/NVIDIA/apex
+[submodule "1st_place_method/xview2"]
+	path = 1st_place_method/xview2
+	url = https://github.com/vdurnov/xview2_1st_place_solution
